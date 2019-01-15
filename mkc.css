@@ -1,0 +1,23 @@
+body{
+    background-color:aqua;
+}
+h1{
+    color: black;
+    font-family:verdana;
+    font-size:360%;
+    text-align:center;
+    }
+.u1{
+    color: brown;
+    font-style: italic;
+    font-size:200%;
+    padding:10px;
+    margin:20px;
+}
+section {
+    width: 300px;
+    border: 25px solid green;
+    padding: 25px;
+    margin: 25px;
+  }
+  
